@@ -3,6 +3,7 @@
 ## Tutorials
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) : Tutorials app for WatchKit
 * [sample-watchkit-apps](https://github.com/sanketfirodiya/sample-watchkit-apps) : Awesome list of WatchKit sample apps, tutorials and resources
+* [native-watchOS-example](https://github.com/neonichu/native-watchOS-example) : Example projects which shows how to integrate third-party dependencies into native watchOS apps.
 
 
 ## Tools
